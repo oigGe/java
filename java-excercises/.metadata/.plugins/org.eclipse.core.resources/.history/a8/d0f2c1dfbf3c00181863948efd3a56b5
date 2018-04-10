@@ -1,0 +1,13 @@
+
+public class App {
+	public static void main(String[] args) {
+
+	double width = 5.5;
+	double height = 8.5;
+	
+	double perimeter = 2*(width + height);
+	double area = width*height;
+	
+	System.out.println("Area is: " + width + " * " + height + " = " + area + "\nPerimeter is: " + "2 x (" + width + " + " + height + ")" + " = " + perimeter );
+	}
+}

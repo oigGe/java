@@ -1,0 +1,14 @@
+
+public class App {
+	public static void main(String[] args) {
+		double r = 0;
+		Scanner num = new Scanner(System.in);
+		double perimeter = 2*Math.PI*r;
+		double area = Math.PI*Math.pow(r, 2);
+		
+		
+		
+		System.out.println("Perimeter is: " + perimeter + "\nArea is: " + area);
+	}
+
+}
