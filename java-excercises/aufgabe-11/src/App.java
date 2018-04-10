@@ -14,7 +14,7 @@ public class App {
 		
 		double area = Math.PI * Math.pow(r, 2);
 
-		System.out.println("Perimeter is: " + perimeter + "\nArea is: " + area);
+		System.out.println("Perimeter is: " + perimeter + "\nArfaewqhtdbea is: " + area);
 	}
 
 }
