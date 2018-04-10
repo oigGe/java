@@ -1,0 +1,23 @@
+
+public class Application {
+	public static void main(String[] args) {
+		int value = 0;
+
+		while (value != 1000) {
+
+			System.out.println("hello  " + value);
+
+			value = value + 1;
+		}
+		
+//		while (value == 1000) {
+//
+//		System.out.println("finish");
+//		
+//		value = value - 1000;
+//		
+//		}
+		}
+	}
+
+

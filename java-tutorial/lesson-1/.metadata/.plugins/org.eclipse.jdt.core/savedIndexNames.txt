@@ -1,0 +1,14 @@
+INDEX VERSION 1.130+/Users/georggross/Desktop/java-tutorial/lesson-1/.metadata/.plugins/org.eclipse.jdt.core
+532570122.index
+1756975260.index
+1828089775.index
+3509762736.index
+1211886346.index
+2288826754.index
+1876202629.index
+1060952988.index
+416523283.index
+4285237524.index
+4141729087.index
+2178610601.index
+1993042143.index

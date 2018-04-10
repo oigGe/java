@@ -1,0 +1,17 @@
+
+public class App {
+	public static void main(String[] args) {
+		int[] values = {5,55,444,777};
+		
+		System.out.println(values[3]);
+		
+		int[][] grid = {
+				{5,55,444,777},
+				{2,4},
+				{1,2,3,4,5}
+		};
+		System.out.println(grid[1][1]);
+		System.out.println(grid[0][2]);
+	}
+
+}
