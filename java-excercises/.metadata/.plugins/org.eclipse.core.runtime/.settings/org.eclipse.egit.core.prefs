@@ -1,3 +1,6 @@
-GitRepositoriesView.GitDirectories=F\:\\repos\\git.oigGe\\java\\.git;
-GitRepositoriesView.GitDirectories.relative=F\:\\repos\\git.oigGe\\java\\.git;
+GitRepositoriesView.GitDirectories=/Users/georggross/repos/git.oigGe/java/.git\:
+GitRepositoriesView.GitDirectories.relative=/Users/georggross/repos/git.oigGe/java/.git\:
+RepositorySearchDialogDeepSearch=false
+RepositorySearchDialogSearchPath=/Users/georggross/repos/git.oigGe/java/java-excercises
+RepositorySearchDialogSkipHidden=false
 eclipse.preferences.version=1
