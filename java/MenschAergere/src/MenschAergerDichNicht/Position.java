@@ -69,6 +69,10 @@ public class Position {
         return null;
     }
 
+    public boolean isAllOut(){
+        return false;
+    }
+
     public Position[] getHome(){
         return null;
     }

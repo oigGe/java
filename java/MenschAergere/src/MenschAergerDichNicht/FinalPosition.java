@@ -2,7 +2,7 @@ package MenschAergerDichNicht;
 
 public class FinalPosition extends Position {
 
-    private static int counter = 1000;
+    //    private static int counter = 1000;
     private Position[] home;
     private String playerName;
 
@@ -10,14 +10,12 @@ public class FinalPosition extends Position {
         super(value);
         this.home = new Position[4];
         setUpHome();
-
     }
 
     private void setUpHome() {
         for (int i = 0; i < home.length; i++) {
-            home[i] = new Position(counter + i);
+            home[i] = new Position(i);
         }
-        counter += 1000;
     }
 
     @Override
@@ -36,7 +34,6 @@ public class FinalPosition extends Position {
             if (home[i].isEmpty()) {
                 return false;
             }
-
         }
         return true;
     }
@@ -48,7 +45,7 @@ public class FinalPosition extends Position {
 
     @Override
     public Position getHomeAt(int i) {
-        if (i < home.length) {
+        if (i < home.length && i >= 0) {
             return home[i];
         }
         return null;
@@ -57,5 +54,9 @@ public class FinalPosition extends Position {
     @Override
     public Position[] getHome() {
         return home;
+    }
+
+    public int homePositionValue(Figure figure) {
+        return figure.getPosition().getValue();
     }
 }

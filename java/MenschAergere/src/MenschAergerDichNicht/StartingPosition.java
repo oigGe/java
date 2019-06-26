@@ -56,5 +56,15 @@ public class StartingPosition extends Position {
         return false;
     }
 
+    @Override
+    public boolean isAllOut() {
+        for (Position position : startingPositions) {
+            if (!position.isEmpty()) {
+                return false;
+            }
+        }
+        return true;
+    }
+
 
 }

@@ -19,11 +19,20 @@ public class PlayGame {
             if (roll == -1) {
                 continue;
             }
+
             movePhase(roll);
             if (roll != 6) {
                 switchTurn();
             }
+            try{
+
+                Thread.sleep(00);
+            }catch(InterruptedException ex){
+                //do stuff
+            }
+
             if (hasWinner) {
+                System.out.println("Turn count: " + turnCount);
                 System.out.println("Game closed");
                 isRunning = false;
             }
@@ -32,8 +41,13 @@ public class PlayGame {
 
     private static int rollPhase() {
         while (isRunning) {
-            System.out.println("Player " + thisPlayer.getColor() + " ,please roll");
-            String input = edu.kit.informatik.Terminal.readLine();
+            String input;
+            if (!thisPlayer.isAi()) {
+                System.out.println("Player " + thisPlayer.getColor() + " ,please roll");
+                input = edu.kit.informatik.Terminal.readLine();
+            } else {
+                input = ROLL_REGEX;
+            }
             if (input.matches(ROLL_REGEX)) {
                 if (thisPlayer.isOut()) {
                     int roll = Dice.roll();
@@ -49,7 +63,12 @@ public class PlayGame {
                     while (roll != 6 && counter < 2) {
                         System.out.println("Player " + thisPlayer.getColor() + " rolled a " + roll + "" +
                                 ". Please roll again.");
-                        String input2 = edu.kit.informatik.Terminal.readLine();
+                        String input2;
+                        if (!thisPlayer.isAi()) {
+                             input2 = edu.kit.informatik.Terminal.readLine();
+                        }else {
+                            input2 = ROLL_REGEX;
+                        }
                         if (input2.matches(ROLL_REGEX)) {
                             roll = Dice.roll();
                             if (roll == 6) {
@@ -64,9 +83,9 @@ public class PlayGame {
                             System.out.println("Error, invalid command");
                         }
                     }
-                    System.out.println("Player " + thisPlayer.getColor() + " cant Move");
+                    System.out.println("Player " + thisPlayer.getColor() + " rolled a " + roll + ". Player cant Move");
                     switchTurn();
-                   return  -1;
+                    return -1;
                 }
             } else if (input.matches(QUIT_REGEX)) {
                 isRunning = false;
@@ -81,17 +100,22 @@ public class PlayGame {
     private static void movePhase(int roll) {
         while (isRunning) {
             if (canMove(roll)) {
-                System.out.println("Which figure should be moved?");
-                int input = Integer.parseInt(edu.kit.informatik.Terminal.readLine());
+                int input;
+                if (!thisPlayer.isAi()) {
+                    System.out.println("Which figure should be moved?");
+                    input = Integer.parseInt(edu.kit.informatik.Terminal.readLine());
+                }else {
+                    input = thisPlayer.bestMove(roll);
+                }
                 if (input > 0 && input <= 4) {
-                    if (thisPlayer.moveFigure(input -1, roll)) {
+                    if (thisPlayer.moveFigure(input - 1, roll)) {
                         System.out.println("Figure was moved");
                         if (thisPlayer.hasWon()) {
                             hasWinner = true;
                             System.out.println("Player " + thisPlayer.getColor() + " has won.");
                         }
                         break;
-                    }else {
+                    } else {
                         System.out.println("You cant move this figure.");
                     }
 
@@ -107,7 +131,7 @@ public class PlayGame {
 
     private static boolean canMove(int roll) {
         for (Figure figure : thisPlayer.getFigures()) {
-            if (thisPlayer.canMoveFigure(figure.getFigureNumber()-1, roll)) {
+            if (thisPlayer.canMoveFigure(figure.getFigureNumber() - 1, roll)) {
                 return true;
             }
         }
