@@ -129,7 +129,7 @@
       <file leaf-file-name="CreatePlayer.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/CreatePlayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="35">
+            <state relative-caret-position="68">
               <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
               <folding>
                 <element signature="e#670#671#0" expanded="true" />
@@ -329,7 +329,7 @@
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50078124" side_tool="true" weight="0.042674255" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info active="true" anchor="right" id="Run" order="8" visible="true" weight="0.6765625" />
+      <window_info anchor="right" id="Run" order="8" weight="0.6765625" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
@@ -339,7 +339,7 @@
       <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.49921876" visible="true" weight="0.061166428" />
+      <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.49921876" weight="0.061166428" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
@@ -840,7 +840,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/CreatePlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
+        <state relative-caret-position="68">
           <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
           <folding>
             <element signature="e#670#671#0" expanded="true" />
