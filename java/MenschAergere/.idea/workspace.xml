@@ -18,8 +18,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -27,7 +27,7 @@
       <file leaf-file-name="PlayGame.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/PlayGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
+            <state relative-caret-position="-832">
               <caret line="55" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
@@ -36,7 +36,7 @@
       <file leaf-file-name="Figure.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/Figure.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
+            <state relative-caret-position="255">
               <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="e#455#456#0" expanded="true" />
@@ -52,7 +52,7 @@
       <file leaf-file-name="Position.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/Position.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
+            <state relative-caret-position="660">
               <caret line="56" selection-start-line="56" selection-end-line="56" />
               <folding>
                 <element signature="e#254#255#0" expanded="true" />
@@ -61,7 +61,7 @@
                 <element signature="e#1265#1266#0" expanded="true" />
                 <element signature="e#1292#1293#0" expanded="true" />
                 <element signature="e#1324#1325#0" expanded="true" />
-                <element signature="e#1351#1352#0" expanded="true" />
+                <element signature="e#1352#1353#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,7 +70,7 @@
       <file leaf-file-name="BoardMatrix.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/BoardMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="67">
+            <state relative-caret-position="938">
               <caret line="163" selection-start-line="163" selection-end-line="163" />
               <folding>
                 <element signature="method#setBoard#0;class#BoardMatrix#0" />
@@ -82,15 +82,11 @@
       <file leaf-file-name="FinalPosition.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/FinalPosition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
+            <state relative-caret-position="368">
               <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
               <folding>
                 <element signature="method#FinalPosition#0;class#FinalPosition#0" />
                 <element signature="method#hasWon#0;class#FinalPosition#0" />
-                <element signature="e#993#994#0" expanded="true" />
-                <element signature="e#1055#1056#0" expanded="true" />
-                <element signature="e#1254#1255#0" expanded="true" />
-                <element signature="e#1281#1282#0" expanded="true" />
                 <element signature="e#1311#1312#0" expanded="true" />
                 <element signature="e#1365#1366#0" expanded="true" />
               </folding>
@@ -98,43 +94,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Player.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Player.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/Player.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="330">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
                 <element signature="e#633#634#0" expanded="true" />
                 <element signature="e#660#661#0" expanded="true" />
                 <element signature="method#setUpFigures#0;class#Player#0" />
-                <element signature="e#8571#8572#0" expanded="true" />
-                <element signature="e#8622#8623#0" expanded="true" />
-                <element signature="e#8703#8704#0" expanded="true" />
-                <element signature="e#8750#8751#0" expanded="true" />
-                <element signature="e#8797#8798#0" expanded="true" />
-                <element signature="e#8835#8836#0" expanded="true" />
-                <element signature="e#8877#8878#0" expanded="true" />
-                <element signature="e#8913#8914#0" expanded="true" />
-                <element signature="e#8955#8956#0" expanded="true" />
-                <element signature="e#8991#8992#0" expanded="true" />
-                <element signature="e#11238#11239#0" expanded="true" />
-                <element signature="e#11267#11268#0" expanded="true" />
-                <element signature="e#11308#11309#0" expanded="true" />
-                <element signature="e#11337#11338#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CreatePlayer.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CreatePlayer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/CreatePlayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="75">
               <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
-              <folding>
-                <element signature="e#670#671#0" expanded="true" />
-                <element signature="e#743#744#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -142,12 +120,21 @@
       <file leaf-file-name="StartingPosition.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/StartingPosition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="65" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="225">
+              <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
               <folding>
                 <element signature="e#922#923#0" expanded="true" />
                 <element signature="e#962#963#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreateMatrixCoordinates.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/CreateMatrixCoordinates.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -182,16 +169,17 @@
         <option value="$PROJECT_DIR$/src/MenschAergerDichNicht/Position.java" />
         <option value="$PROJECT_DIR$/src/MenschAergerDichNicht/StartingPosition.java" />
         <option value="$PROJECT_DIR$/src/MenschAergerDichNicht/FinalPosition.java" />
-        <option value="$PROJECT_DIR$/src/MenschAergerDichNicht/Player.java" />
         <option value="$PROJECT_DIR$/src/MenschAergerDichNicht/PlayGame.java" />
         <option value="$PROJECT_DIR$/src/MenschAergerDichNicht/CreatePlayer.java" />
+        <option value="$PROJECT_DIR$/src/GUI.java" />
+        <option value="$PROJECT_DIR$/src/MenschAergerDichNicht/Player.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="684" />
+    <option name="height" value="777" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -220,9 +208,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -230,7 +218,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -318,7 +306,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="9" />
@@ -328,8 +316,8 @@
       <window_info anchor="right" id="Capture Analysis" order="2" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50078124" side_tool="true" weight="0.042674255" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="right" id="Run" order="8" weight="0.6765625" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
@@ -338,14 +326,14 @@
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.49921876" weight="0.061166428" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Message" order="4" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="0" />
@@ -353,12 +341,12 @@
       <window_info anchor="right" id="Capture Analysis" order="2" />
       <window_info anchor="right" id="Run" order="8" visible="true" weight="0.13125" />
       <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.10234375" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="3" />
@@ -368,7 +356,7 @@
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50078124" side_tool="true" weight="0.042674255" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32859176" />
@@ -423,6 +411,140 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="method#setUpFigures#0;class#Player#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/CreatePlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/StartingPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="e#922#923#0" expanded="true" />
+            <element signature="e#962#963#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/PlayGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/Figure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#1766#1767#0" expanded="true" />
+            <element signature="e#1801#1802#0" expanded="true" />
+            <element signature="e#1838#1839#0" expanded="true" />
+            <element signature="e#1869#1870#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#1063#1064#0" expanded="true" />
+            <element signature="e#1265#1266#0" expanded="true" />
+            <element signature="e#1292#1293#0" expanded="true" />
+            <element signature="e#1324#1325#0" expanded="true" />
+            <element signature="e#1352#1353#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/BoardMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1605">
+          <caret line="163" selection-start-line="163" selection-end-line="163" />
+          <folding>
+            <element signature="method#setBoard#0;class#BoardMatrix#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/FinalPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+          <folding>
+            <element signature="method#FinalPosition#0;class#FinalPosition#0" />
+            <element signature="method#hasWon#0;class#FinalPosition#0" />
+            <element signature="e#1311#1312#0" expanded="true" />
+            <element signature="e#1365#1366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="method#setUpFigures#0;class#Player#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/StartingPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="e#922#923#0" expanded="true" />
+            <element signature="e#962#963#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/CreatePlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -469,7 +591,7 @@
             <element signature="e#1265#1266#0" expanded="true" />
             <element signature="e#1292#1293#0" expanded="true" />
             <element signature="e#1324#1325#0" expanded="true" />
-            <element signature="e#1351#1352#0" expanded="true" />
+            <element signature="e#1352#1353#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -504,20 +626,6 @@
             <element signature="e#633#634#0" expanded="true" />
             <element signature="e#660#661#0" expanded="true" />
             <element signature="method#setUpFigures#0;class#Player#0" />
-            <element signature="e#8571#8572#0" expanded="true" />
-            <element signature="e#8622#8623#0" expanded="true" />
-            <element signature="e#8703#8704#0" expanded="true" />
-            <element signature="e#8750#8751#0" expanded="true" />
-            <element signature="e#8797#8798#0" expanded="true" />
-            <element signature="e#8835#8836#0" expanded="true" />
-            <element signature="e#8877#8878#0" expanded="true" />
-            <element signature="e#8913#8914#0" expanded="true" />
-            <element signature="e#8955#8956#0" expanded="true" />
-            <element signature="e#8991#8992#0" expanded="true" />
-            <element signature="e#11238#11239#0" expanded="true" />
-            <element signature="e#11267#11268#0" expanded="true" />
-            <element signature="e#11308#11309#0" expanded="true" />
-            <element signature="e#11337#11338#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -529,10 +637,6 @@
           <folding>
             <element signature="method#FinalPosition#0;class#FinalPosition#0" />
             <element signature="method#hasWon#0;class#FinalPosition#0" />
-            <element signature="e#993#994#0" expanded="true" />
-            <element signature="e#1055#1056#0" expanded="true" />
-            <element signature="e#1254#1255#0" expanded="true" />
-            <element signature="e#1281#1282#0" expanded="true" />
             <element signature="e#1311#1312#0" expanded="true" />
             <element signature="e#1365#1366#0" expanded="true" />
           </folding>
@@ -585,9 +689,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
-          <folding>
-            <element signature="e#713#714#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -603,6 +704,7 @@
         <state relative-caret-position="195">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
+            <element signature="e#922#923#0" expanded="true" />
             <element signature="e#962#963#0" expanded="true" />
           </folding>
         </state>
@@ -623,20 +725,6 @@
             <element signature="e#633#634#0" expanded="true" />
             <element signature="e#660#661#0" expanded="true" />
             <element signature="method#setUpFigures#0;class#Player#0" />
-            <element signature="e#8571#8572#0" expanded="true" />
-            <element signature="e#8622#8623#0" expanded="true" />
-            <element signature="e#8703#8704#0" expanded="true" />
-            <element signature="e#8750#8751#0" expanded="true" />
-            <element signature="e#8797#8798#0" expanded="true" />
-            <element signature="e#8835#8836#0" expanded="true" />
-            <element signature="e#8877#8878#0" expanded="true" />
-            <element signature="e#8913#8914#0" expanded="true" />
-            <element signature="e#8955#8956#0" expanded="true" />
-            <element signature="e#8991#8992#0" expanded="true" />
-            <element signature="e#11238#11239#0" expanded="true" />
-            <element signature="e#11267#11268#0" expanded="true" />
-            <element signature="e#11308#11309#0" expanded="true" />
-            <element signature="e#11337#11338#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -652,7 +740,7 @@
             <element signature="e#1265#1266#0" expanded="true" />
             <element signature="e#1292#1293#0" expanded="true" />
             <element signature="e#1324#1325#0" expanded="true" />
-            <element signature="e#1351#1352#0" expanded="true" />
+            <element signature="e#1352#1353#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -697,13 +785,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/CreateMatrixCoordinates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/MatrixCoordinates.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -723,27 +804,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/Main.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/io/FileInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="23">
+          <caret line="218" column="23" selection-start-line="218" selection-start-column="23" selection-end-line="218" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/StartingPosition.java">
+    <entry file="file://$PROJECT_DIR$/src/GUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
-          <folding>
-            <element signature="e#922#923#0" expanded="true" />
-            <element signature="e#962#963#0" expanded="true" />
-          </folding>
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/Figure.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
+        <state relative-caret-position="255">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="e#455#456#0" expanded="true" />
@@ -755,26 +839,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/BoardMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="163" selection-start-line="163" selection-end-line="163" />
-          <folding>
-            <element signature="method#setBoard#0;class#BoardMatrix#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/io/FileInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="218" column="23" selection-start-line="218" selection-start-column="23" selection-end-line="218" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/Position.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
+        <state relative-caret-position="660">
           <caret line="56" selection-start-line="56" selection-end-line="56" />
           <folding>
             <element signature="e#254#255#0" expanded="true" />
@@ -783,68 +850,74 @@
             <element signature="e#1265#1266#0" expanded="true" />
             <element signature="e#1292#1293#0" expanded="true" />
             <element signature="e#1324#1325#0" expanded="true" />
-            <element signature="e#1351#1352#0" expanded="true" />
+            <element signature="e#1352#1353#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/BoardMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="938">
+          <caret line="163" selection-start-line="163" selection-end-line="163" />
+          <folding>
+            <element signature="method#setBoard#0;class#BoardMatrix#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/FinalPosition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
+        <state relative-caret-position="368">
           <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
           <folding>
             <element signature="method#FinalPosition#0;class#FinalPosition#0" />
             <element signature="method#hasWon#0;class#FinalPosition#0" />
-            <element signature="e#993#994#0" expanded="true" />
-            <element signature="e#1055#1056#0" expanded="true" />
-            <element signature="e#1254#1255#0" expanded="true" />
-            <element signature="e#1281#1282#0" expanded="true" />
             <element signature="e#1311#1312#0" expanded="true" />
             <element signature="e#1365#1366#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/Player.java">
+    <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/StartingPosition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="225">
+          <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
           <folding>
-            <element signature="e#633#634#0" expanded="true" />
-            <element signature="e#660#661#0" expanded="true" />
-            <element signature="method#setUpFigures#0;class#Player#0" />
-            <element signature="e#8571#8572#0" expanded="true" />
-            <element signature="e#8622#8623#0" expanded="true" />
-            <element signature="e#8703#8704#0" expanded="true" />
-            <element signature="e#8750#8751#0" expanded="true" />
-            <element signature="e#8797#8798#0" expanded="true" />
-            <element signature="e#8835#8836#0" expanded="true" />
-            <element signature="e#8877#8878#0" expanded="true" />
-            <element signature="e#8913#8914#0" expanded="true" />
-            <element signature="e#8955#8956#0" expanded="true" />
-            <element signature="e#8991#8992#0" expanded="true" />
-            <element signature="e#11238#11239#0" expanded="true" />
-            <element signature="e#11267#11268#0" expanded="true" />
-            <element signature="e#11308#11309#0" expanded="true" />
-            <element signature="e#11337#11338#0" expanded="true" />
+            <element signature="e#922#923#0" expanded="true" />
+            <element signature="e#962#963#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/PlayGame.java">
+    <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/CreateMatrixCoordinates.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/CreatePlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="75">
           <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/PlayGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-832">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MenschAergerDichNicht/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
-            <element signature="e#670#671#0" expanded="true" />
-            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="method#setUpFigures#0;class#Player#0" />
           </folding>
         </state>
       </provider>

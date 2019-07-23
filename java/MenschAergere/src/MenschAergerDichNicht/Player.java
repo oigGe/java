@@ -11,7 +11,7 @@ public class Player {
     private boolean isTurn;
     private boolean isAi;
 
-    public Player(String color, Position startPosition, Position finalPosition, Boolean isAi) {
+    public Player(String color, Position startPosition, Position finalPosition, boolean isAi) {
         this.color = color;
         this.startPosition = startPosition;
         this.finalPosition = finalPosition;
